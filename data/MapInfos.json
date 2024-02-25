@@ -1,11 +1,15 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":819,"scrollY":448},
-{"id":3,"expanded":true,"name":"MAP003","order":3,"parentId":2,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":3,"scrollX":832,"scrollY":640},
-{"id":5,"expanded":false,"name":"MAP005","order":5,"parentId":1,"scrollX":819,"scrollY":448},
-{"id":6,"expanded":true,"name":"MAP0060","order":6,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":7,"expanded":true,"name":"MAP007","order":7,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":false,"name":"道具商店","order":8,"parentId":7,"scrollX":819,"scrollY":448}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":448},
+null,
+null,
+null,
+{"id":5,"expanded":false,"name":"MAP005","order":6,"parentId":12,"scrollX":819,"scrollY":448},
+{"id":6,"expanded":true,"name":"MAP0060","order":7,"parentId":5,"scrollX":819,"scrollY":448},
+{"id":7,"expanded":true,"name":"MAP007","order":8,"parentId":6,"scrollX":819,"scrollY":448},
+{"id":8,"expanded":true,"name":"道具商店","order":9,"parentId":7,"scrollX":819,"scrollY":448},
+{"id":9,"expanded":true,"name":"城堡 1F","order":2,"parentId":0,"scrollX":1152,"scrollY":978},
+{"id":10,"expanded":true,"name":"城堡 2F","order":3,"parentId":9,"scrollX":1157,"scrollY":980},
+{"id":11,"expanded":false,"name":"城堡 3F","order":4,"parentId":10,"scrollX":1082,"scrollY":900},
+{"id":12,"expanded":false,"name":"城堡","order":5,"parentId":0,"scrollX":1232,"scrollY":1820}
 ]
