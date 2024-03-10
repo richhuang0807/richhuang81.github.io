@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"轉移大廳","order":5,"parentId":11,"scrollX":811,"scrollY":448},
+{"id":3,"expanded":true,"name":"熔岩窟","order":8,"parentId":5,"scrollX":1390.2857142857142,"scrollY":768},
+{"id":4,"expanded":true,"name":"基本內部","order":9,"parentId":3,"scrollX":1390.2857142857142,"scrollY":1152},
+{"id":5,"expanded":true,"name":"MAP005","order":7,"parentId":12,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"空間站","order":11,"parentId":7,"scrollX":1390.2857142857142,"scrollY":754.2857142857142},
+{"id":7,"expanded":true,"name":"MAP007","order":10,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"飄浮的寺廟","order":12,"parentId":6,"scrollX":1404,"scrollY":768},
+{"id":9,"expanded":true,"name":"城堡 1F","order":2,"parentId":1,"scrollX":1152,"scrollY":978},
+{"id":10,"expanded":true,"name":"城堡 2F","order":3,"parentId":9,"scrollX":1152,"scrollY":816},
+{"id":11,"expanded":true,"name":"城堡 3F","order":4,"parentId":10,"scrollX":1136,"scrollY":800},
+{"id":12,"expanded":true,"name":"城堡","order":6,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1632}
+]
